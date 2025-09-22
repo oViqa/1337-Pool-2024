@@ -35,11 +35,6 @@ The 1337 Pool (Piscine) is a selective, intensive programming bootcamp where can
 - Mathematical operations
 - Memory allocation
 
-### Rush Projects (Weekends)
-- **Rush00**: ASCII art generation
-- **Rush01**: Logic puzzles (Sudoku-style)
-- **Rush02**: Number to words conversion
-
 ### Exam Practice
 - Regular coding exams testing learned concepts
 - Time-pressured problem solving
@@ -52,7 +47,6 @@ The 1337 Pool (Piscine) is a selective, intensive programming bootcamp where can
 - **Vim**: Text editor mastery
 - **Problem Solving**: Algorithmic thinking
 - **Time Management**: Working under deadlines
-- **Teamwork**: Collaborative coding
 
 ## 📈 Experience
 
