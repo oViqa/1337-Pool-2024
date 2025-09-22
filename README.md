@@ -51,7 +51,7 @@ The 1337 Pool (Piscine) is a selective, intensive programming bootcamp where can
 ## 📈 Experience
 
 The Pool was an intense but rewarding experience that pushed me to:
-- Code for 12+ hours daily
+- Code for 6+ hours daily
 - Learn through trial and error
 - Help peers and learn from others
 - Develop resilience and persistence
